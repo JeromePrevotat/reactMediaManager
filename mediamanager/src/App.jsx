@@ -1,11 +1,11 @@
-import './css/App.css'
+import MediaCard from "./components/MediaCard";
 
 function App() {
-  return (
-    <>
-      
-    </>
-  )
+	return (
+		<>
+			<MediaCard />
+		</>
+	);
 }
 
-export default App
+export default App;
